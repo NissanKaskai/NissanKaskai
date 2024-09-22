@@ -10,7 +10,7 @@ I'm currently working as Ingenieur d'études at CESAER, with the aim of building
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/icons/latex/latex-original.svg" alt="Latex logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex logo" width="50" height="50" />
 
 - - -
 <!--
