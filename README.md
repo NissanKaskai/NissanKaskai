@@ -6,6 +6,8 @@ A Data Analyst with a Degree in Applied Mathematics, a Master's Degree in Data A
 
 I'm currently working as Ingenieur d'études at CESAER, with the aim of building a Composite Indicator to measure real estate tension in France municipalities and redesign the actual zoning system.
 
+Feel free to give a look to all my academic projects, my three-years thesis and my Master thesis!
+
 - - -
 
 🧰 Toolbox
