@@ -4,7 +4,7 @@
 
 A Data Analyst with a Degree in Applied Mathematics, a Master's Degree in Data Analytics for Business and Society (Ca' Foscari University of Venice, Italy) and a Master 2 Economics in Econometrics, Big Data, Statistics (EBDS) (Aix-Marseille University, France).
 
-I'm currently working as Ingenieur d'études at CESAER, with the aim of building a Composite Indicator to measure real estate tension in France municipalities and redesign the actual zoning system.
+After working as Ingenieur d'études for 1 year at INRAE, a French research center based in Dijon, in a project for the french Ministry, I'm currently employed in Infocamere (Padova) as Data Analyst.
 
 Feel free to give a look to all my academic projects, my three-years thesis and my Master thesis!
 
